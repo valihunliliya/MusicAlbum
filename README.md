@@ -1,2 +1,2 @@
 # MusicAlbum
-team project on practising teles, java, collections, sort () method, exceptions, etc
+team project on practising text files, java, collections, sort () method, exceptions, etc
