@@ -3,12 +3,24 @@
         "id": "1",
         "author": "OkeanElzy",
         "songname": "Tam, de nas nema",
-        "duration": "25"
+        "duration": "221"
     },
     {
         "id": "2",
         "author": "Kvitka Cisyc",
         "songname": "Ya pidu v daleki hory",
-        "duration": "25"
+        "duration": "372"
+    },
+    {
+        "id": "3",
+        "author": "Taras Chubay",
+        "songname": "Ya pidu v daleki hory",
+        "duration": "224"
+    },
+    {
+        "id": "4",
+        "author": "Okean Elzy",
+        "songname": "Tam, de nas nema",
+        "duration": "402"
     }
 ]
