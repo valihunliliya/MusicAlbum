@@ -25,8 +25,9 @@ public class JacksonUsage {
 		List<AlbumDTO> album = objectMapper.readValue(input, typeFactory
 				.constructCollectionType(ArrayList.class, AlbumDTO.class));
 
-		System.out.println(album.get(0).getSongname());
-		System.out.println(album.get(1).getSongname());
+		// printing out ArrayList
+		System.out.println(" ArrayList Elements");
+		System.out.print("\t" + album.toString());
 
 	}
 
