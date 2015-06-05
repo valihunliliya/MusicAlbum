@@ -44,6 +44,10 @@ public class AlbumDTO {
 		this.duration = duration;
 	}
 
-
+	@Override
+	public String toString() {
+		return "AlbumDTO [author=" + author + ", songname=" + songname
+				+ ", duration=" + duration + "]";
+	}
 
 }
